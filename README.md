@@ -18,10 +18,10 @@ Tools I use: <br>
 
 
 
-<br>
 
 
-<div style="text-align: center">
+
+<div>
 
 <p>Jamming out to:</p>
 
