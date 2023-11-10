@@ -16,16 +16,9 @@ Tools I use: <br>
 ![TablePlus](https://img.shields.io/badge/-TablePlus-000?&logo=TablePlus)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
-
-
-
-
-
-<div>
-
 <p>Jamming out to:</p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jessedelira2000&cover_image=true&theme=novatorem&show_offline=false&background_color=cd1818&interchange=false&bar_color=286571&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=jessedelira2000&redirect=true)
 
-</div>
+
 
