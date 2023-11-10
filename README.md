@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **jessedelira/jessedelira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
--->
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jessedelira2000&cover_image=true&theme=novatorem&show_offline=false&background_color=cd1818&interchange=false&bar_color=286571&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=jessedelira2000&redirect=true)
