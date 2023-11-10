@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 🔭 I’m currently working on Gym Tracker <br>
 😄 Pronouns: He/Him <br>
