@@ -21,16 +21,4 @@ I have professional experience using: <br>
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-fff?&logo=azure-devops&logoColor=0078D7)
 ![Jest](https://img.shields.io/badge/-Jest-fff?&logo=jest&logoColor=C21325)
 
-
-
-
 I have been programming since about 2018, it has been quite the journey from knowing nothing to now knowing a little more than nothing. I find working on side projects helps bring the fun back into programming, having complete control of your work is a liberating feeling. Right now I'm working on [**Gym Tracker**](https://github.com/jessedelira/gym-tracker) feel free to use/contribute!
-
-I speak English and Spanish ❤️
-
-
-
-
-
-
-
