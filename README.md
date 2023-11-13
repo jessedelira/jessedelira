@@ -18,6 +18,8 @@ I have professional experience using: <br>
 ![SCSS](https://img.shields.io/badge/-SCSS-fff?&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=javascript)
 ![C#](https://img.shields.io/badge/-C%23-fff?&logo=c-sharp&logoColor=239120)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-fff?&logo=azure-devops&logoColor=0078D7)
+![Jest](https://img.shields.io/badge/-Jest-fff?&logo=jest&logoColor=C21325)
 
 
 
